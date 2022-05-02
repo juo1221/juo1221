@@ -1,8 +1,9 @@
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juo1221&show_icons=true&theme=swift)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juo1221&layout=compact&theme=swift)](https://github.com/juo1221/github-readme-stats)
 
-
+<div>
+  <img width="47%" height="200em" src="https://github-readme-stats.vercel.app/api?username=juo1221&show_icons=true&theme=swift" />
+  <img width="47%" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juo1221&layout=compact&theme=swift"/>
+</div>
 
 <h3>Stack</h3>   
 
@@ -25,4 +26,5 @@
 [![Blog](http://img.shields.io/badge/%20blog-black?style=flat-square&logo=github&link=https://juo1221.github.io/)](https://juo1221.github.io/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jyok120@gmail.com)](mailto:jyok120@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:jykim2121@naver.com)](mailto:jykim2121@naver.com)
+
 
