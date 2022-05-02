@@ -2,7 +2,7 @@
 
 <div>
   <img width="47%" height="180em" src="https://github-readme-stats.vercel.app/api?username=juo1221&show_icons=true&theme=swift" />
-  <img width="47%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juo1221&layout=compact&theme=swift"/>
+  <img width="47%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juo1221&layout=compact&theme=swift&langs_count=4"/>
 </div>
 
 <h3>Stack</h3>   
